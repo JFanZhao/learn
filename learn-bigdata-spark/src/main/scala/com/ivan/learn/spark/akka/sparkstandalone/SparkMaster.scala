@@ -90,11 +90,6 @@ object SparkMaster {
     // TODO_MA 注释：启动了一个actor ： SparkMaster
     actorSystem.actorOf(Props(new SparkMaster("localhost", 6789)), Constant.SMA)
 
-    /**
-     * TODO_MA 马中华 https://blog.csdn.net/zhongqi2513
-     *  注释： actor 的生命周期
-     *  1、SparkMaster actor 的构造方法
-     *  2、preStart()  当 actor 实例创建成功的时候，就会马上调用这个 actor 的 preStart() 来执行
-     */
+
   }
 }
