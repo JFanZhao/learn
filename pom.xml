@@ -14,6 +14,7 @@
         <module>concurrency</module>
         <module>data-structures-and-algorithms</module>
         <module>learn-bigdata-kafka</module>
+        <module>learn-java-classloader</module>
     </modules>
 
     <properties>
