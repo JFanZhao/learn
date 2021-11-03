@@ -1,6 +1,5 @@
-package org.ivan.array;
+package org.ivan.learn.ds.array;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 /**

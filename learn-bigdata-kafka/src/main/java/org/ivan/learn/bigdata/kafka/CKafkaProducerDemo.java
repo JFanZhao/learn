@@ -1,4 +1,4 @@
-package org.ivan;
+package org.ivan.learn.bigdata.kafka;
 
 import java.util.ArrayList;
 import java.util.List;

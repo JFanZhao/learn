@@ -1,4 +1,4 @@
-package org.ivan.tree;
+package org.ivan.learn.ds.tree;
 
 import java.util.Arrays;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package org.ivan;
+package org.kafka;
 
 import static org.junit.Assert.assertTrue;
 

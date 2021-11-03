@@ -1,4 +1,4 @@
-package org.ivan.array;
+package org.ivan.learn.ds.array;
 
 /**
  * 队列基本操作，入队，出队

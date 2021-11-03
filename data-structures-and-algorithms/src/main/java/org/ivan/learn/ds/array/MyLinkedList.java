@@ -1,4 +1,4 @@
-package org.ivan.array;
+package org.ivan.learn.ds.array;
 
 /**
  * 单向链表的基本操作

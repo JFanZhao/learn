@@ -1,4 +1,4 @@
-package org.ivan.sort;
+package org.ivan.learn.ds.sort;
 
 import java.util.ArrayList;
 import java.util.Arrays;
