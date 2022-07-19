@@ -101,7 +101,7 @@ public class LRUCache {
 
 class DoubleList {
     private Node head, tail;
-    private int size = 0;
+    private int size ;
 
     public DoubleList() {
         head = new Node(0, 0);
