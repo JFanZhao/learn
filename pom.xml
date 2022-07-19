@@ -15,6 +15,8 @@
         <module>data-structures-and-algorithms</module>
         <module>learn-bigdata-kafka</module>
         <module>learn-java-classloader</module>
+        <module>learn-java-clickhouse</module>
+        <module>learn-algorithms-and-data-structures</module>
     </modules>
 
     <properties>

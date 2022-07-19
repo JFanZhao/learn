@@ -1,7 +1,7 @@
 package org.ivan.learn.ds.array;
 
 /**
- * 队列基本操作，入队，出队
+ * 队列基本操作，入队，出队  循环队列
  *
  * @author: ivan
  * @email: JFan.Jack@gmail.com
